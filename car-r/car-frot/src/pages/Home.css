@@ -1,0 +1,38 @@
+.hero {
+  height: 70vh;
+  background: #0f172a; /* dark theme */
+  color: white;
+  text-align: center;
+  padding-top: 120px;
+}
+
+.hero h1 {
+  font-size: 40px;
+  margin-bottom: 10px;
+}
+
+.hero p {
+  color: #94a3b8;
+}
+.search-box {
+  margin-top: 30px;
+  background: #1e293b;
+  display: inline-block;
+  padding: 20px;
+  border-radius: 10px;
+}
+
+.search-box input {
+  padding: 10px;
+  margin: 10px;
+  border-radius: 5px;
+  border: none;
+}
+
+.search-box button {
+  padding: 10px 20px;
+  background: #22c55e;
+  color: white;
+  border: none;
+  border-radius: 5px;
+}
